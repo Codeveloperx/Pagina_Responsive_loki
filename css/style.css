@@ -4,7 +4,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 .container{
     display: flex;
     clip-path: polygon(0 0, 100% 0%, 100% 85%, 0 100%);
